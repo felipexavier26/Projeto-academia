@@ -1,6 +1,5 @@
 # Projeto academia 
 
-https://felipexavier26.github.io/Projeto-academia/
 
 ![img1](https://github.com/felipexavier26/Projeto-academia/assets/103685054/dec5f647-0e88-4c45-8fc3-2f25dde1cfb5)
 
